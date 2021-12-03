@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omersanli17
+- 👋 Hi, I’m Ömer Şanlı
 - 👀 I’m interested in SwiftUI, Swift and Kotlin
 - 🌱 I’m currently learning Python and .NET
 - 📫 You can reach me on LinkedIn and Telegram by using @omersanli17 username!
